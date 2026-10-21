@@ -1,6 +1,6 @@
 # Awesome-RAG-Document-Indexing
 
-# Top RAG & Document Indexing Ecosystem
+## Top RAG & Document Indexing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Structure-Aware Retrieval, Reasoning-Based Navigation & Enterprise Search*  
