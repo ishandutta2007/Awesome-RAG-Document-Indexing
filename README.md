@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-RAG-Document-Indexing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-RAG-Document-Indexing?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-RAG-Document-Indexing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-RAG-Document-Indexing?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-RAG-Document-Indexing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-RAG-Document-Indexing?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-RAG-Document-Indexing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-RAG-Document-Indexing?style=flat-square&color=emerald" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,51 +74,51 @@ The table below catalogs premier SaaS enterprise search and document intelligenc
 
 Open-source document indexing and RAG engines provide transparent data lineage, zero vendor lock-in, on-premises privacy, and customizable indexing pipelines.
 
-The projects below are **sorted in descending order of GitHub star count**. Each repository badge links directly to its live stargazers directory:
+The projects below are **sorted in descending order of GitHub Stars_Count**. Each repository badge links directly to its live stargazers directory:
 
-1. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers) 🌟  
+1. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers) 🌟  
    *Open-source RAG engine based on deep document understanding.* Features layout-aware DeepDoc parsing, OCR for PDFs/slides/scanned sheets, visual chunk inspection, hybrid retrieval, and grounded citation-backed answers. Apache 2.0.
 
-2. **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) ⚡  
+2. **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![GitHub_Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) ⚡  
    *Blazing-fast, typo-tolerant search engine with built-in hybrid semantic search.* Written in Rust, it delivers sub-50ms query responses, model-agnostic embeddings (OpenAI, Hugging Face, Ollama), vector storage, and native agentic retrieval for modern RAG. MIT.
 
-3. **[LlamaIndex](https://github.com/run-llama/llama_index)** [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers) 🦙  
+3. **[LlamaIndex](https://github.com/run-llama/llama_index)** [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers) 🦙  
    *Premier data framework for LLM-based applications.* Supplies extensive data connectors (LlamaHub), multi-document indexing strategies, tree query engines, recursive retrievers, and advanced routing tools. MIT.
 
-4. **[Milvus](https://github.com/milvus-io/milvus)** [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) 🚀  
+4. **[Milvus](https://github.com/milvus-io/milvus)** [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) 🚀  
    *Cloud-native distributed vector database built for massive billion-scale similarity search.* Powers enterprise RAG indexing pipelines with hardware-accelerated indexing (GPU/HNSW/IVF), multi-vector query support, and hybrid search. Apache 2.0.
 
-5. **[Marker](https://github.com/datalab-to/marker)** [![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers) 📄  
+5. **[Marker](https://github.com/datalab-to/marker)** [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers) 📄  
    *Deep learning pipeline that converts PDFs, EPUBs, and book scans into high-fidelity Markdown.* Strips artifacts, formats LaTeX math equations, reconstructs tables, and preserves structural heading hierarchies for pristine downstream RAG chunking. GPL-3.0.
 
-6. **[LightRAG](https://github.com/HKUDS/LightRAG)** [![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social&color=white)](https://github.com/HKUDS/LightRAG/stargazers) 💡  
+6. **[LightRAG](https://github.com/HKUDS/LightRAG)** [![GitHub_Stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social&color=white)](https://github.com/HKUDS/LightRAG/stargazers) 💡  
    *Fast, dual-level knowledge graph RAG engine.* Seamlessly indexes documents using both high-level thematic concept graphs and low-level entity extraction, offering comprehensive document recall while cutting query overhead. MIT.
 
-7. **[PageIndex](https://github.com/VectifyAI/PageIndex)** [![GitHub stars](https://img.shields.io/github/stars/VectifyAI/PageIndex?style=social&color=white)](https://github.com/VectifyAI/PageIndex/stargazers) 🌲  
+7. **[PageIndex](https://github.com/VectifyAI/PageIndex)** [![GitHub_Stars](https://img.shields.io/github/stars/VectifyAI/PageIndex?style=social&color=white)](https://github.com/VectifyAI/PageIndex/stargazers) 🌲  
    *The leading open-source vectorless, reasoning-based RAG engine.* Replaces traditional opaque vector indexes with hierarchical tree structures generated directly from layout logic. LLMs reason through tree nodes like a human domain expert, achieving 98.7% accuracy on FinanceBench with explicit page and section citations. Apache 2.0.
 
-8. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers) 🧠  
+8. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers) 🧠  
    *Open-source AI second brain and personal knowledge retrieval engine.* Automatically indexes local folders, Markdown notes, PDFs, GitHub repositories, and Notion pages for privacy-first, offline-ready conversational search. GPL-3.0.
 
-9. **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) 🦀  
+9. **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) 🦀  
    *High-performance vector similarity search engine written in Rust.* Tailored for production document indexing with rich JSON payload filtering, hybrid dense/sparse vector search (SPLADE/BM25), and memory-mapped quantization. Apache 2.0.
 
-10. **[Chroma](https://github.com/chroma-core/chroma)** [![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers) 🎨  
+10. **[Chroma](https://github.com/chroma-core/chroma)** [![GitHub_Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers) 🎨  
     *AI-native, developer-friendly open-source embedding database.* Engineered for rapid prototyping and microservice RAG indexing with automatic tokenization, filtering, document collection management, and Python/TypeScript SDKs. Apache 2.0.
 
-11. **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) 🌾  
+11. **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) 🌾  
     *End-to-end modular NLP and LLM orchestration framework.* Powers industrial document search pipelines through composable routing nodes, cross-encoder rerankers, document splitters, and versatile vector store connectors. Apache 2.0.
 
-12. **[Weaviate](https://github.com/weaviate/weaviate)** [![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers) 🔍  
+12. **[Weaviate](https://github.com/weaviate/weaviate)** [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers) 🔍  
     *Open-source cloud-native vector search engine with native multi-tenancy.* Provides out-of-the-box hybrid search (combining BM25 and vector embeddings), multi-modal model connectors, and GraphQL/REST query APIs. BSD-3-Clause.
 
-13. **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers) 🧩  
+13. **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub_Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers) 🧩  
     *The essential ingestion and pre-processing engine for enterprise LLMs.* Transforms raw unstructured files (PDFs, DOCX, PPTX, HTML, MSG) into structured text elements, cleanly partitioning tables, titles, and body content for RAG pipelines. Apache 2.0.
 
-14. **[txtai](https://github.com/neuml/txtai)** [![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social&color=white)](https://github.com/neuml/txtai/stargazers) 🔎  
+14. **[txtai](https://github.com/neuml/txtai)** [![GitHub_Stars](https://img.shields.io/github/stars/neuml/txtai?style=social&color=white)](https://github.com/neuml/txtai/stargazers) 🔎  
     *All-in-one embeddings database for semantic search, knowledge management, and workflow automation.* Built on Python, SQLite, and Hugging Face transformers, delivering lightweight standalone document indexing without external daemon dependencies. Apache 2.0.
 
-15. **[PKMRAG](https://github.com/dev-hashemi/pkmrag)** [![GitHub stars](https://img.shields.io/github/stars/dev-hashemi/pkmrag?style=social&color=white)](https://github.com/dev-hashemi/pkmrag/stargazers) 🕸️  
+15. **[PKMRAG](https://github.com/dev-hashemi/pkmrag)** [![GitHub_Stars](https://img.shields.io/github/stars/dev-hashemi/pkmrag?style=social&color=white)](https://github.com/dev-hashemi/pkmrag/stargazers) 🕸️  
     *Embedded local-first hybrid GraphRAG retrieval engine and Model Context Protocol (MCP) server.* Fuses Tantivy BM25 keyword matching with BAAI/bge dense similarity via Reciprocal Rank Fusion, offering anchor-note graph boosting and automated semantic gap discovery. MIT.
 
 16. **[Verity RAG](https://pypi.org/project/verity-rag/)** 🛡️  
@@ -168,7 +168,7 @@ Contributions are warmly welcomed! Help keep this directory accurate, up-to-date
 
 1. **Fork the Repository**: Click the `Fork` button at the top right of this page.
 2. **Create a Feature Branch**: `git checkout -b feature/add-new-rag-tool`.
-3. **Add Your Entry**: Ensure you follow the existing format (include product/repo link, verified starting pricing or GitHub star count badge, and a factual 1–2 sentence description).
+3. **Add Your Entry**: Ensure you follow the existing format (include product/repo link, verified starting pricing or GitHub Stars_Count badge, and a factual 1–2 sentence description).
 4. **Run Format Check**: Verify markdown tables render cleanly and links point to canonical sources.
 5. **Submit a Pull Request**: Provide a concise summary of the addition and relevant documentation links.
 
@@ -195,3 +195,12 @@ If this curated repository saved you hours of research or helped you architect y
 
 - **License**: Distributed under the [MIT License](file:///C:/Users/hp/Documents/Projects/Awesome-RAG-Document-Indexing/LICENSE).
 - **Disclaimer**: This is an independent community-curated ecosystem index. Trademarks and brand names belong to their respective corporate entities. Information is collected from publicly available vendor documentation, financial disclosures, and open-source project repositories.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-RAG-Document-Indexing&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-RAG-Document-Indexing_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-RAG-Document-Indexing_growth.svg">
+  </picture>
+</a>
