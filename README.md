@@ -97,3 +97,12 @@ Star the repo if you find it useful!
 
 **Made for AI engineers, RAG developers, and teams building document intelligence and retrieval systems.**
 Let's make RAG and document indexing more open, traceable, and structure-aware.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-RAG-Document-Indexing&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-RAG-Document-Indexing_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-RAG-Document-Indexing_growth.svg">
+  </picture>
+</a>
